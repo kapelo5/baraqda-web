@@ -1,0 +1,1 @@
+# rozpiska modelu osoby Person
